@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/dictionary-high-resolution-logo-black-transparent.png</file>
+        <file>img/bakground.jpg</file>
+    </qresource>
+</RCC>
